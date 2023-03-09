@@ -3,5 +3,5 @@ an email marketing app I am building with ChatGPT
 
 Feel free to follow along on the journey here:
 
-# substack
+## substack
 https://cloudgpt.substack.com/
